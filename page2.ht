@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My News Website</title>
+</head>
+<body>
+
+<h1>My News Website</h1>
+
+<p>Welcome to our news site! Here you can read the latest updates about important events happening in Ukraine and around the world.</p>
+
+<p>Our latest article covers the situation in Donetsk Oblast. Click the link below to read the full article:</p>
+
+<a href="index.html">
+    <button>Read the full article</button>
+</a>
+
+</body>
+</html>
